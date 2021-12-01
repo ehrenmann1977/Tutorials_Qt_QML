@@ -3,13 +3,16 @@ This project illustrates the following how to
 
 ## connect UI Component to QtQuick for separating the ui from the logic
 here is an example. 
-In Page1Form.ui.qml and to expose the Rectangle item
-Rectangle {
-            id: rectid
-            }
+
+ In Page1Form.ui.qml and to expose the Rectangle item
+      Rectangle {
+      id: rectid
+      }
+
 within the Page item
-    property alias _rect: rectid
-    property alias _lbl: lbl
+
+      property alias _rect: rectid
+      property alias _lbl: lbl
     
 main.qml
 to read the item values use this
