@@ -16,10 +16,13 @@ within the Page item
     
 main.qml
 to read the item values use this
-             _rect.x
+
+     _rect.x
+   
 to fetch any UI changes use this
-            _rect.onXChanged: updateR()
-            _rect.onYChanged: updateR()
+
+     _rect.onXChanged: updateR()
+     _rect.onYChanged: updateR()
 
 ## connect QtQuick item's signal to C++ function to update the c++ backend with a new x-coordinate
 here is an example
