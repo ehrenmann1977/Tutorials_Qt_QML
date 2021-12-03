@@ -13,6 +13,6 @@ to run the sender mode
 
 to run the receiver mode
 
-	./node -s
+	./node -r
 
 note that the libraries are static and included in the repository
