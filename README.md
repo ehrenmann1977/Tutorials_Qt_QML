@@ -14,3 +14,7 @@ here are some Qt blocks that can be used
   This is a qt project using libusb static library to list the usb devices
   
   
+# Note to deploy on ios device
+
+to deploy on ios device, you need to add device supports to your xcode, in case you have an old xcode version
+https://github.com/iGhibli/iOS-DeviceSupport
