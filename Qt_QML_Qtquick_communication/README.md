@@ -26,13 +26,17 @@ to fetch any UI changes use this
 
 ## connect QtQuick item's signal to C++ function to update the c++ backend with a new x-coordinate
 here is an example
-main.qml
+
+#main.qml
+
     Page1Form 
     {
     objectNmae: "page1box"
     signal changecoordinate(msgx: double,  msgy: double)
     }
-main.cpp
+
+#main.cpp
+
     QQmlApplicationEngine engine;
 
     //Backend class Initialization
