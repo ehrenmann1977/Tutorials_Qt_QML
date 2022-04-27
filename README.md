@@ -23,5 +23,10 @@ https://github.com/iGhibli/iOS-DeviceSupport
 ## License
 This code is protected by copyright, and no license is given to use this code in full or part of it in your system. A commercial license is possible. Please contact me in advance
 
+
+## Copyright
+
+copyright 2014 @  Dr. Sherif Omran
+
 www.embedded-ib.de
-Dr. Sherif Omran
+
