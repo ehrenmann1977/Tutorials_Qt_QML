@@ -1,6 +1,7 @@
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
-
+CMakeLists.txt.user
+.DS_Store
 *~
 *.autosave
 *.a
@@ -58,6 +59,7 @@ Thumbs.db
 *.opensdf
 *.vcxproj
 *vcxproj.*
+
 
 # MinGW generated files
 *.Debug
