@@ -15,11 +15,13 @@ to run the receiver mode
 
 	./node -r
 
-note that the libraries are static and included in the repository
+note that the libraries are static and included in the repository, however the headers are not included, you need to get it from the library owner.
 
 
 ## License
 This code is protected by copyright, and no license is given to use this code in full or part of it in your system. A commercial license is possible. Please contact me in advance
 
-www.embedded-ib.de
+
 Dr. Sherif Omran
+
+www.embedded-ib.de
