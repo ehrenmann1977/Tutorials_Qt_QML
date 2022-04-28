@@ -2,7 +2,10 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>Page1Info.ui.qml</file>
-        <file>Page2Form.ui.qml</file>
+        <file>Page2Main.ui.qml</file>
         <file>qtquickcontrols2.conf</file>
+        <file>OListDynamic_swipe.qml</file>
+        <file>add-icon.png</file>
+        <file>info-icon.jpg</file>
     </qresource>
 </RCC>

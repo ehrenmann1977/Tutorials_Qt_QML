@@ -15,7 +15,7 @@ ApplicationWindow {
         Page1Info {
         }
 
-        Page2Form {
+        Page2Main {
         }
     }
 
